@@ -34,7 +34,8 @@ The following **additional** features are implemented:
 * [X] List anything else that you added to improve the site's functionality!
 
 ## Video
-[![Watch the walkthrough](https://cdn.loom.com/sessions/thumbnails/59dd65820f3849ffb9aa45c07fd55aa8-with-play.gif)](https://www.loom.com/share/59dd65820f3849ffb9aa45c07fd55aa8?sid=16c096d6-f43f-4534-92e2-da6ea6bd7113)
+[Loom Video Walkthrough](https://www.loom.com/share/59dd65820f3849ffb9aa45c07fd55aa8?sid=16c096d6-f43f-4534-92e2-da6ea6bd7113)
+
 
 
 ## Notes
