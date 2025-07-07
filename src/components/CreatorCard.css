@@ -1,0 +1,22 @@
+.creator-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem;
+  max-width: 300px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.creator-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.creator-actions {
+  margin-top: 0.5rem;
+}
+
+.creator-actions button {
+  margin: 0 0.25rem;
+}
